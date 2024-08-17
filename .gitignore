@@ -1,3 +1,8 @@
 dataset/Safety_equipments.v3i.yolov8
 runs/detect
 src/scripts/runs/detect/train/weights
+wandb
+runs
+dataset/videos/*
+yolov8n.pt
+yolov8m.pt

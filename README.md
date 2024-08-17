@@ -12,3 +12,10 @@ Go to the web page of Universe Roboflow `https://universe.roboflow.com/priyam-sh
 # Run script
 After the first steps,  on the main path "/", run the command:
 `python3 src/scripts/train_models.py`
+
+
+# Inference
+To test the trained models, download it and run the script `python3 src/scripts/infer.py`
+
+Example:
+video: https://youtu.be/5-tAZy62vCY
