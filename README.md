@@ -22,4 +22,4 @@ video: https://youtu.be/5-tAZy62vCY
 
 
 
-![Wearing object detection](https://github.com/wyctorfogos/The-use-of-Principal-Component-Analysis-and-the-Rocchio-algorithm-for-flower-classification-in-the-I/blob/main/confusion_matrix.png)
+![Wearing object detection](https://github.com/wyctorfogos/safe-vest-object-detection/blob/master/val_batch1_pred.jpg)
